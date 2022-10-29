@@ -1,4 +1,4 @@
-# Max Miriko GitHub repository
+# Max Miriko 
 
 ## Interests
 - Analitics
